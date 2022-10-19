@@ -1,5 +1,3 @@
-#### [rsschool-cv](https://cloud.mail.ru/attaches/16533719311857923565%3B0%3B1)
-___
 # **Anastasia Shapetsko**
 #### Junior Frontend Developer
 ___
