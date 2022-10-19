@@ -23,6 +23,15 @@ ___
 5. Figma, Adobe XD, Sketch app
 ___
 #### **Code Example:**  
+    function findNumber(arr, num) {
+         for (var i = 0; i < arr.length; i++) {
+         if (arr[i] === num) {
+             console.log('found it!')
+             return
+         }
+     }
+    console.log('no', num, 'in given array')
+    }   
 ___
 #### **Education and Courses:**  
 - RS Schools Course "JavaScript/Front-end"
@@ -33,4 +42,3 @@ ___
 #### **Language:** 
 - Russian - professional
 - English - conversion
-
