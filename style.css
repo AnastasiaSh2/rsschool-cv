@@ -80,10 +80,13 @@ code {
     margin-top: 0.1px;
     margin-bottom: 0.1px;
   }
+  pre{
+    background-color: rgb(250, 247, 247);
+  }
   .date{
     margin-top: 10px;
     margin-bottom: 20px;
-    margin-left: 25px;
+    margin-left: 0px;
   }
   .logo{
     width: 150px;
