@@ -78,10 +78,28 @@ code {
     margin-left: 25px;
   }
   .logo{
-    width: 150px;
-    height: 150px;
-    text-align: left;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+  }
+  .menu{
+    display: block;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .github{
+    width: 10;
+    height: 10;
+    text-align: center;
     margin-top: 10px;
     margin-bottom: 0px;
     margin-left: 25px;
+  }
+  .menu_item-img{
+    width: 50px;
+    height: 50px;
   }
